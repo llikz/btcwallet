@@ -1,17 +1,17 @@
-jp.mfapps.loc.ekimemo - 駅メモ！ - ステーションメモリーズ！- 位置ゲーム
-com.netmarble.nanatsunotaizai - 七つの大罪 光と闇の交戦 : グラクロ
-com.sunborn.girlsfrontline.jp - ドールズフロントライン
-com.nexon.maplem.japan - メイプルストーリーＭ
-jp.co.ncjapan.lineagem - Lineage M(リネージュM)
-com.gcrest.yume100prince.android - 夢王国と眠れる100人の王子様
-jp.co.nlcc.AeruParty.Android - 会える 婚活アプリなら ビデオ通話でアエルドットパーティー
-jp.co.playmotion.crossme - クロスミー - すれ違いマッチングで出会い・恋活・婚活
-com.omiai_jp - マッチングアプリはOmiai 出会い・婚活・恋活マッチング-出会い婚活・マッチング無料の出会い
-com.square_enix.grimmsnotesjpn - グリムノーツ Repage
-jp.co.cyberagent.miami - ピグパーティ～可愛いアバターでフレンドとトーク&amp;オシャレで可愛いファッションにきせかえて楽しむアプリ
-jp.co.cygames.princessconnectredive - プリンセスコネクト！Re:Dive
-jp.co.ncjapan.lineagem - Lineage M(リネージュM)
-jp.co.hangame.sjchocotto - チョコットランドSP
+jp.mfapps.loc.ekimemo - FlashLight
+com.netmarble.nanatsunotaizai - wallpaper
+com.sunborn.girlsfrontline.jp - Level
+com.nexon.maplem.japan - Live
+jp.co.ncjapan.lineagem - Lineage
+com.gcrest.yume100prince.android - Ball
+jp.co.nlcc.AeruParty.Android - Pocker
+jp.co.playmotion.crossme - Compass
+com.omiai_jp - home
+com.square_enix.grimmsnotesjpn - line
+jp.co.cyberagent.miami - piano
+jp.co.cygames.princessconnectredive - Bot
+jp.co.ncjapan.lineagem - fish
+jp.co.hangame.sjchocotto - star
 net.skyscanner.android.main - Skyscanner - Cheap Flights, Hotels and Car Rental
 com.nexon.maplem.japan - メイプルストーリーＭ
 jp.co.peanutsclub.gla - クレーンゲーム「ゲットライブ」
