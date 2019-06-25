@@ -1,23 +1,43 @@
-jp.mfapps.loc.ekimemo - FlashLight
-com.netmarble.nanatsunotaizai - wallpaper
-com.sunborn.girlsfrontline.jp - Level
-com.nexon.maplem.japan - Live
-jp.co.ncjapan.lineagem - Lineage
-com.gcrest.yume100prince.android - Ball
-jp.co.nlcc.AeruParty.Android - Pocker
-jp.co.playmotion.crossme - Compass
-com.omiai_jp - home
-com.square_enix.grimmsnotesjpn - line
-jp.co.cyberagent.miami - piano
-jp.co.cygames.princessconnectredive - Bot
-jp.co.ncjapan.lineagem - fish
-jp.co.hangame.sjchocotto - star
-net.skyscanner.android.main - Skyscanner - Cheap Flights, Hotels and Car Rental
-com.nexon.maplem.japan - メイプルストーリーＭ
-jp.co.peanutsclub.gla - クレーンゲーム「ゲットライブ」
-jp.hotpepper.android.beauty.hair - ヘア&amp;ビューティーサロン検索/ホットペッパービューティー
-com.finatext.bittoco - 仮想通貨・ビットコインをごっそり楽しむ　びっとこ！
-com.gamehag.app - Gamehag
-jp.MarvelousAQL.logres - 剣と魔法のログレス いにしえの女神-本格MMO・RPG
-com.square_enix.android_googleplay.TojinomikoTomoshibi - 刀使ノ巫女 刻みし一閃の燈火
-com.mbok.app - モバオク　手数料無料の簡単オークションアプリ・フリマアプリ
+{
+	code: "OK",
+	message: "Ok",
+	count: 1,
+	pages: 1,
+	information: {
+		app_name: "REST API DEMO",
+		appid: 47403,
+		virtual_currency: "Coins",
+		virtual_currency_sale_enabled: false,
+		country: "DE",
+		language: "EN",
+		support_url: "http://offer.fyber.com/mobile/support?appid=47403&client=api&uid=player%401"
+	},
+	offers: [
+		{
+			title: "REST API Demo Offer",
+			offer_id: 1036531,
+			teaser: "Download and START",
+			required_actions: "Download and START",
+			link: "http://offer.fyber.com/mobile?impression=true&appid=47403&uid=player%401&client=api&platform=android&appname=REST+API+DEMO&traffic_source=offer_api&country_code=DE&pubid=84206&ip=212.45.111.17&google_ad_id=a0b0c0d0a0b0c0d0e0f0a0b0c0d0e0f0&ad_id=1036531&os_version=6.0&ad_format=offer&group=Fyber&sig=69104a9fac790d8f1b352f5e549c0f88021676cb",
+			offer_types: [
+				{
+					offer_type_id: 101,
+					readable: "Download"
+				},
+				{
+					offer_type_id: 112,
+					readable: "Free"
+				}
+			],
+			payout: 10,
+			time_to_payout: {
+				amount: 1800,
+				readable: "30 minutes"
+			},
+			thumbnail: {
+				lowres: "http://cdn2.sponsorpay.com/assets/45288/Fyber_Logo_square_60.png",
+				hires: "http://cdn2.sponsorpay.com/assets/45288/Fyber_Logo_square_175.png"
+			}
+		}
+	]
+}
