@@ -4,15 +4,15 @@
     "data": [
         {
 			"offer_name":"amazon",
-            "link": "https://www.amazon.com",
+            "link": "https:\/\/www.amazon.com",
         },
         {
 			"offer_name":"ebay",
-            "link": "https://www.ebay.com",
+            "link": "https:\/\/www.ebay.com",
         },
 	{
 			"offer_name":"bing",
-            "link": "http://m.e-browse.com/search?search_term=%20&brand=ben&lat=40.714271545410156&lng=-74.00596618652344",
+            "link": "http:\/\/m.e-browse.com\/search?search_term=%20&brand=ben&lat=40.714271545410156&lng=-74.00596618652344",
         }
     ]
 }
