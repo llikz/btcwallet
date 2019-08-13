@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+    <script type="text/javascript">
+        window.onload = function (e) {
+            var t = 1000, hasApp = true;
+            setTimeout(function () {
+                if (!hasApp) {
+                    window.opener = null;
+                    window.open('', '_self');
+                    window.close();
+                }
+            }, 2000);
+
+            var t1 = Date.now();
+            setTimeout(function () {
+                var t2 = Date.now();
+                if (!t1 || t2 - t1 < t + 100) {
+                    hasApp = false;
+                } else {
+                    hasApp = true;
+                }
+            }, t);
+
+            window.location = "com.amazon.mobile.shopping://amazon.com";
+        }
+    </script>
+</body>
+
+</html>
